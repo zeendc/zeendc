@@ -1,5 +1,3 @@
-<sub>`zeendc` / `README` `.md`</sub>
-
 # ZNDC 👋
 
 ### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F24E1E&width=435&lines=UI%2FUX+Designer;IT+Student;" alt="Typing SVG" />
