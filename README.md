@@ -30,11 +30,12 @@ Currently pursuing my IT degree at the University of Pangasinan, I find my passi
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white) 
 
 ---
-
 ### 📫 Connect with me
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeena-delacruz-488a102b2/) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zeenadelacruz18@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://zeena-herself.vercel.app/)
+
 
 </div>
